@@ -154,23 +154,6 @@ This k8s setup creates all k8s resources inside the _Namespace_ `pokeapi`, run `
 | Python | [beastmatser/aiopokeapi](https://github.com/beastmatser/aiopokeapi) | _Auto caching, asynchronous_
 | Scala | [juliano/pokeapi-scala](https://github.com/juliano/pokeapi-scala) | _Auto caching_ |
 
-## Donations
-
-Help to keep PokéAPI running! If you're using PokéAPI as a teaching resource or for a project, consider sending us a $10 donation to help keep the service up. We get 60 million requests a month!
-
-Thank you to all our backers! [Become a backer](https://opencollective.com/pokeapi#backer)
-
-<a href="https://opencollective.com/pokeapi#backers" target="_blank"><img src="https://opencollective.com/pokeapi/backers.svg?width=890"></a>
-
-## Join Us On Slack!
-
-Have a question or just want to discuss new ideas and improvements? Hit us up on slack. Consider talking with us here before creating new issue.
-This way we can keep issues here a bit more organized and helpful in the long run. Be excellent to each other :smile:
-
-[Sign up](https://pokeapi-slack-invite.herokuapp.com/) easily!
-
-Once you've signed up visit [PokéAPI on Slack](https://pokeapi.slack.com)
-
 ## Contributing
 
 This project exists thanks to all the people who [contribute](https://github.com/PokeAPI/pokeapi/blob/master/CONTRIBUTING.md)
